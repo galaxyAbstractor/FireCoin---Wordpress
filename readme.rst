@@ -1,0 +1,2 @@
+Lets you insert meta tags to your wordpress header so users using FireCoin (https://addons.mozilla.org/en-US/firefox/addon/firecoin/ , https://github.com/galaxyAbstractor/FireCoin)
+can detect your bitcoin address and donate to you. If you like the plugin, please consider donating to me: 1KHTs795SKBd2yBfdfpf4BxArEq5RGrNZo
